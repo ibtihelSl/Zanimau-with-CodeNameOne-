@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/com/mycompany/gui/accueilAdminController.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/com/mycompagny/Service/ServiceAccessoires.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/Admin/AfficheVet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/com/mycompagny/Service/CrudVeterinaire.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/com/mycompany/gui/AfficheMagasin.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/com/mycompagny/Service/CrudComment.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/com/mycompany/gui/AjouterAccessoires.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/Admin/AfficheArticle.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/com/mycompagny/Service/CrudAssurance.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/com/mycompagny/Service/AnimalService1.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/com/mycompany/gui/Affichage.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/Admin/ModifVet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/Admin/AjoutVet.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/com/mycompany/gui/MagasinAdmin.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/Admin/ModifArticle.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/com/mycompany/gui/AfficherAssurance.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/com/mycompagny/Service/ServiceEvent.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/com/mycompagny/Service/CrudArticle.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/com/mycompany/gui/accueilConnectedController.java</file>
+            <file>file:/C:/Users/hp/Documents/NetBeansProjects/Workshop13/Zanimaux/src/Admin/AfficheAssurance.java</file>
+        </group>
+    </open-files>
+</project-private>
